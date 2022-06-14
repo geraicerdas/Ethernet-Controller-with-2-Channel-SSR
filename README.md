@@ -4,7 +4,7 @@
 * **/hardware** : Schematic files (.pdf) some of older version included Eagle design files (.sch and .brd)
 * **/production** : gerber file for pcb manufacturing
 
-You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)]([https://www.tokopedia.com/geraicerdas/esp32-cam-programmer-ai-thinker-esp32-s-camera-5v-serial-converter-module-only](https://www.tokopedia.com/geraicerdas/ethernet-arduino-controller-2-channel-ssr-atmega328p-w5500-ds1307-rtc)) 
+You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)](https://www.tokopedia.com/geraicerdas/ethernet-arduino-controller-2-channel-ssr-atmega328p-w5500-ds1307-rtc) 
 [![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-red.svg)](https://www.geraicerdas.com)
 
 # Ethernet-Controller-with-2-Channel-SSR
