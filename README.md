@@ -1,5 +1,6 @@
 
 ### Repository Content
+* **/firmware** : Arduino example codes (.ino)
 * **/hardware** : Schematic files (.pdf) some of older version included Eagle design files (.sch and .brd)
 * **/production** : gerber file for pcb manufacturing
 
